@@ -1,0 +1,18 @@
+{
+  "name": "s3-contacts-upload-demo",
+  "version": "1.0.0",
+  "description": "Nodejs app for uploading file to S3",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/balavasu/Node-test2.git"
+  },
+  "author": "kp.balavasu<kp.balavasu@gmail.com>",
+  "homepage": "https://github.com/balavasu/Node-test2",
+  "dependencies": {
+    "aws-sdk": "^2.202.0"
+  }
+}
